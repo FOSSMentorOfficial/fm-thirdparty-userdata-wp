@@ -1,5 +1,5 @@
 {
-    "name": "fossmentorofficial/my-private-plugin",
+    "name": "fossmentorofficial/fm-thirdparty-userdata-wp",
     "description": "Display user data from third party API",
     "license": "GPL-2.0+",
     "type": "wordpress-plugin",
@@ -10,8 +10,8 @@
         }
     ],
     "support": {
-        "src": "https://github.com/fossmentorofficial/my-private-plugin",
-        "issues": "https://github.com/fossmentorofficial/my-private-plugin/issues"
+        "src": "https://github.com/fossmentorofficial/fm-thirdparty-userdata-wp",
+        "issues": "https://github.com/fossmentorofficial/fm-thirdparty-userdata-wp/issues"
     },
     "require": {
         "php": ">=7.0",
